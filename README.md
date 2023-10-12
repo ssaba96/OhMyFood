@@ -10,7 +10,7 @@
 
 | Home Page (Mobile Version)                                   | Menu Page (Mobile Version)                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <tr vertical-align="top"><img align="left" width="100%" height="100%" vertical-align="top" src="https://i.imgur.com/55g059v.png/100/100"> | <img align="right" width="100%" height="100%" src="https://i.imgur.com/HP4sFa3.png/100/100"></tr> |
+| <tr><td vertical-align="top"><img align="left" width="100%" height="100%" vertical-align="top" src="https://i.imgur.com/55g059v.png/100/100"></td> | <td vertical-align="top"><img align="right" width="100%" height="100%" src="https://i.imgur.com/HP4sFa3.png/100/100"></td></tr> |
 
 
 <img align="left" width="100" height="100" src="https://i.imgur.com/55g059v.png/100/100">
