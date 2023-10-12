@@ -4,7 +4,7 @@
 
 **A front end website for online food ordering company, using HTML, CSS and CSS animations.**
 
-| Home Page                                                    | Menu Page                                                    |
+| Home Page (Mobile Version)                                   | Menu Page (Mobile Version)                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png) | ![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png) |
 
