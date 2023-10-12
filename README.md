@@ -7,6 +7,11 @@
 ![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png) ![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png)
 
 
+| Home Page               | Menu Page              |
+| ---------------------- | ---------------------- |
+| ![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png) | ![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png) |
+
+
 ## Requirements:
 
 - Set up developer working environment;
