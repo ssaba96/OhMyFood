@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
-body, html {
+
+body,
+html {
   margin: 0;
   padding: 0;
 }
@@ -28,29 +30,30 @@ h3 {
   color: #fff;
   font-family: 'Roboto', sans-serif;
   -webkit-box-shadow: 0px 5px 5px 0px rgba(38, 37, 37, 0.1);
-          box-shadow: 0px 5px 5px 0px rgba(38, 37, 37, 0.1);
+  box-shadow: 0px 5px 5px 0px rgba(38, 37, 37, 0.1);
 }
 
 .btn:hover {
   background: -webkit-gradient(linear, left top, left bottom, from(#fface8), to(#ae80e5));
   background: linear-gradient(#fface8, #ae80e5);
   -webkit-box-shadow: 0px 10px 10px 0px rgba(12, 12, 12, 0.1);
-          box-shadow: 0px 10px 10px 0px rgba(12, 12, 12, 0.1);
+  box-shadow: 0px 10px 10px 0px rgba(12, 12, 12, 0.1);
 }
 
 @keyframes option-loading {
   0% {
     color: white;
     -webkit-transform: translateY(10px);
-            transform: translateY(10px);
+    transform: translateY(10px);
   }
+
   100% {
     background-color: #fff;
     color: black;
     -webkit-transform: translateY(0px);
-            transform: translateY(0px);
+    transform: translateY(0px);
     -webkit-box-shadow: 0px 10px 10px 0px rgba(12, 12, 12, 0.1);
-            box-shadow: 0px 10px 10px 0px rgba(12, 12, 12, 0.1);
+    box-shadow: 0px 10px 10px 0px rgba(12, 12, 12, 0.1);
   }
 }
 
@@ -67,11 +70,11 @@ h3 {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 }
 
@@ -90,11 +93,11 @@ h3 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   font-family: "Shrikhand", cursive;
-    -webkit-transform: translateX(-15px);
-          transform: translateX(-15px);
+  -webkit-transform: translateX(-15px);
+  transform: translateX(-15px);
   font-size: 35px;
   width: 100%;
 }
@@ -136,8 +139,8 @@ h3 {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     height: 350px;
   }
 }
@@ -167,11 +170,11 @@ h3 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .restaurant-menu .heart {
@@ -206,12 +209,12 @@ h3 {
 }
 
 .restaurant-menu h3:before {
-    border-bottom: 3px solid #99E2D0;
-    content: "";
-    position: absolute;
-    width: 2rem;
-    height: 1rem;
-    padding: 0.2rem;
+  border-bottom: 3px solid #99E2D0;
+  content: "";
+  position: absolute;
+  width: 2rem;
+  height: 1rem;
+  padding: 0.2rem;
 }
 
 .restaurant-menu h4 {
@@ -245,28 +248,39 @@ h3 {
   }
 }
 
-.listing-1, .listing-2, .listing-3, .listing-4 {
+.listing-1,
+.listing-2,
+.listing-3,
+.listing-4 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   border-radius: 10px;
   -webkit-animation: option-loading 3s forwards;
-          animation: option-loading 3s forwards;
+  animation: option-loading 3s forwards;
   margin: 20px 15px 25px 15px;
   overflow: hidden;
   color: transparent;
 }
 
-.listing-inner, .listing-1 .listing-inner, .listing-2 .listing-inner, .listing-3 .listing-inner, .listing-4 .listing-inner {
+.listing-inner,
+.listing-1 .listing-inner,
+.listing-2 .listing-inner,
+.listing-3 .listing-inner,
+.listing-4 .listing-inner {
   text-overflow: ellipsis;
   width: 100%;
   padding: 5px;
 }
 
-.listing-heading, .listing-1 .listing-heading, .listing-2 .listing-heading, .listing-3 .listing-heading, .listing-4 .listing-heading {
+.listing-heading,
+.listing-1 .listing-heading,
+.listing-2 .listing-heading,
+.listing-3 .listing-heading,
+.listing-4 .listing-heading {
   text-align: left;
   white-space: nowrap;
   margin: 5px 0px 5px 5px;
@@ -274,16 +288,24 @@ h3 {
   overflow: hidden;
 }
 
-.listing-info-container, .listing-1 .listing-info-container, .listing-2 .listing-info-container, .listing-3 .listing-info-container, .listing-4 .listing-info-container {
+.listing-info-container,
+.listing-1 .listing-info-container,
+.listing-2 .listing-info-container,
+.listing-3 .listing-info-container,
+.listing-4 .listing-info-container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.listing-info, .listing-1 .listing-info, .listing-2 .listing-info, .listing-3 .listing-info, .listing-4 .listing-info {
+.listing-info,
+.listing-1 .listing-info,
+.listing-2 .listing-info,
+.listing-3 .listing-info,
+.listing-4 .listing-info {
   font-size: 15px;
   text-align: left;
   width: 100%;
@@ -293,7 +315,11 @@ h3 {
   overflow: hidden;
 }
 
-.price, .listing-1 .price, .listing-2 .price, .listing-3 .price, .listing-4 .price {
+.price,
+.listing-1 .price,
+.listing-2 .price,
+.listing-3 .price,
+.listing-4 .price {
   font-family: 'Roboto', sans-serif;
   font-weight: bold;
   font-size: smaller;
@@ -301,20 +327,24 @@ h3 {
   width: 60px;
 }
 
-.tick, .listing-1 .tick, .listing-2 .tick, .listing-3 .tick, .listing-4 .tick {
+.tick,
+.listing-1 .tick,
+.listing-2 .tick,
+.listing-3 .tick,
+.listing-4 .tick {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   width: 60px;
   background: #99e2d0;
   -webkit-transform: translateX(60px);
-          transform: translateX(60px);
+  transform: translateX(60px);
   height: 67px;
   right: -60px;
   position: absolute;
@@ -323,63 +353,86 @@ h3 {
   transition: 0.6s ease-in-out;
 }
 
-.tick i, .listing-1 .tick i, .listing-2 .tick i, .listing-3 .tick i, .listing-4 .tick i {
+.tick i,
+.listing-1 .tick i,
+.listing-2 .tick i,
+.listing-3 .tick i,
+.listing-4 .tick i {
   color: #fff;
   font-size: 20px;
 }
 
-.listing-1:hover, .listing-2:hover, .listing-3:hover, .listing-4:hover {
+.listing-1:hover,
+.listing-2:hover,
+.listing-3:hover,
+.listing-4:hover {
   cursor: pointer;
   -webkit-transition: 0.8s ease-in-out;
   transition: 0.8s ease-in-out;
 }
 
-.listing:hover .listing-heading, .listing-1:hover .listing-heading, .listing-2:hover .listing-heading, .listing-3:hover .listing-heading, .listing-4:hover .listing-heading {
+.listing:hover .listing-heading,
+.listing-1:hover .listing-heading,
+.listing-2:hover .listing-heading,
+.listing-3:hover .listing-heading,
+.listing-4:hover .listing-heading {
   width: calc(100% - 120px);
 }
 
-.listing:hover .tick, .listing-1:hover .tick, .listing-2:hover .tick, .listing-3:hover .tick, .listing-4:hover .tick {
+.listing:hover .tick,
+.listing-1:hover .tick,
+.listing-2:hover .tick,
+.listing-3:hover .tick,
+.listing-4:hover .tick {
   -webkit-transform: translateX(0px);
-          transform: translateX(0px);
+  transform: translateX(0px);
   -webkit-transition: 0.8s ease-in-out;
   transition: 0.8s ease-in-out;
   right: 0;
 }
 
-.listing:hover .price, .listing-1:hover .price, .listing-2:hover .price, .listing-3:hover .price, .listing-4:hover .price {
+.listing:hover .price,
+.listing-1:hover .price,
+.listing-2:hover .price,
+.listing-3:hover .price,
+.listing-4:hover .price {
   -webkit-transform: translateX(0px);
-          transform: translateX(0px);
+  transform: translateX(0px);
   -webkit-transition: 0.8s ease-in-out;
   transition: 0.8s ease-in-out;
   margin-right: 60px;
 }
 
-.listing:hover i, .listing-1:hover i, .listing-2:hover i, .listing-3:hover i, .listing-4:hover i {
+.listing:hover i,
+.listing-1:hover i,
+.listing-2:hover i,
+.listing-3:hover i,
+.listing-4:hover i {
   opacity: 1;
   -webkit-transform: rotate(-360deg);
-          transform: rotate(-360deg);
+  transform: rotate(-360deg);
   -webkit-transition: 0.8s ease-in-out;
   transition: 0.8s ease-in-out;
 }
 
 .listing-1 {
   -webkit-animation-delay: 0.25s;
-          animation-delay: 0.25s;
+  animation-delay: 0.25s;
 }
 
 .listing-2 {
   -webkit-animation-delay: 0.5s;
-          animation-delay: 0.5s;
+  animation-delay: 0.5s;
 }
 
 .listing-3 {
   -webkit-animation-delay: 0.75s;
-          animation-delay: 0.75s;
+  animation-delay: 0.75s;
 }
 
 .listing-4 {
   -webkit-animation-delay: 1s;
-          animation-delay: 1s;
+  animation-delay: 1s;
 }
 
 footer {
