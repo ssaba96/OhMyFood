@@ -8,18 +8,17 @@
 ![ohmyfood Menu Page Image](https://i.imgur.com/EDTLws6.png)
 
 
-Requirements:
+### Requirements:
 
 - Set up developer working environment;
 - Code using HTML, CSS and CSS animations;
 - Make the website responsive, starting with mobile first approach;;
 - Use colors (primary #9356DC | secondary #FF79DA| tertiary #99E2D0);
 - Font used for the logo should be Shrikhand and for the text font should be Roboto;
-
 - Page Content Homepage (x1) 
-● Display the location of restaurants.
-● A short presentation of the company. 
-● A section containing the four menus in the form of cards. When clicking on the card, the user is redirected to the menu page. 
+  Display the location of restaurants.
+  A short presentation of the company. 
+  A section containing the four menus in the form of cards. When clicking on the card, the user is redirected to the menu page. 
 
 Menu Pages (x4) 
 ● Four pages each containing a restaurant menu. 
