@@ -9,6 +9,11 @@
 | ![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png) | ![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png) |
 
 
+<img align="left" width="100" height="100" src="https://i.imgur.com/55g059v.png/100/100">
+<img align="right" width="100" height="100" src="https://i.imgur.com/HP4sFa3.png/100/100">
+
+
+
 ## Requirements:
 
 - Set up developer working environment;
