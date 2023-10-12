@@ -7,6 +7,11 @@
 ![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png) 
 ![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png)   |  ![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png)
+
+
 
 ## Requirements:
 
