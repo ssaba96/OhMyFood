@@ -6,7 +6,7 @@
 
 | Home Page (Mobile Version)                                   | Menu Page (Mobile Version)                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png) | ![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png) |
+| ![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png) | <td vertical-align="top">![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png)</td> |
 
 
 ## Requirements:
