@@ -1,4 +1,4 @@
-# [ohmyfood](https://ssaba96.github.io/OhMyFood/)
+# ohmyfood
 
 ### Link to website: [ohmyfood](https://ssaba96.github.io/OhMyFood/)
 
