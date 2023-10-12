@@ -12,4 +12,4 @@ Requirements:
         - Use colors (primary #9356DC | secondary #FF79DA| tertiary #99E2D0);
         - Font used for the logo should be Shrikhand and for the text font should be Roboto;
 	
-![ohmyfood Home Page Image](https://github.com/ssab96/ohmyfood/blob/main/Homepage.png?raw=true)
+![ohmyfood Home Page Image](https://github.com/ssab96/ohmyfood/blob/main/mockups/Homepage.png?raw=true)
