@@ -4,13 +4,7 @@
 
 **A front end website for online food ordering company, using HTML, CSS and CSS animations.**
 
-![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png) 
-![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png)
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png)   |  ![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png)
-
+![ohmyfood Home Page Image](https://i.imgur.com/55g059v.png)|![ohmyfood Menu Page Image](https://i.imgur.com/HP4sFa3.png)
 
 
 ## Requirements:
