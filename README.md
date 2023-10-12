@@ -1,7 +1,7 @@
 # ohmyfood 
 ### Link to website: [Ohmyfood](https://ssaba96.github.io/OhMyFood/)
 
-#### A front end website for online food ordering company, using HTML, CSS and CSS animations.
+A front end website for online food ordering company, using HTML, CSS and CSS animations.
 
 Requirements:
 
